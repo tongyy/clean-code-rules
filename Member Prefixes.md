@@ -1,7 +1,7 @@
 # Member Prefixes
 
-You also don¡¦t need to prefix member variables with m_ anymore. Your classes and functions
-should be small enough that you don¡¦t need them.
+You also don't need to prefix member variables with m_ anymore. Your classes and functions
+should be small enough that you don't need them.
 
 :-1: bad
 ```
