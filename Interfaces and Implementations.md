@@ -1,7 +1,6 @@
 Interfaces and Implementations
 
-The preceding I, so common in
-today¡¦s legacy wads, is a distraction at best and too much information at worst. 
+The preceding I, so common in today's legacy wads, is a distraction at best and too much information at worst. 
 
 :-1: bad
 ```
