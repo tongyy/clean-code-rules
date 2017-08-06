@@ -7,6 +7,6 @@ Read the bad and good code, then know how to improve.
 
 Clean Code:a handbook of agile software craftsmanship (Rober.C Martin)
 
-## Good Website
+## Good website
 
 http://tidyjava.com/category/clean-code/
