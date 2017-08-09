@@ -10,5 +10,3 @@ Clean Code:a handbook of agile software craftsmanship (Rober.C Martin)
 ## Good website
 
 http://tidyjava.com/category/clean-code/
-
-https://www.drupal.org/docs/develop/standards/coding-standards
